@@ -1,7 +1,7 @@
 # Llama2-CPU 
 
 # How to run
-# Step 1
+### Step 1
 clone the repository
 
 ``` bash
